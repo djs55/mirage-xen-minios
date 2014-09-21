@@ -6,7 +6,7 @@ if [ "${PREFIX}" = "" ]; then
   fi
 fi
 
-MINIOS=minios-v0.3-djs1
+MINIOS=minios-v0.3-djs3
 MINIOS_ARCHIVE=${MINIOS}.tar.gz
 MINIOS_URL=https://github.com/djs55/xen/archive/${MINIOS_ARCHIVE}
 
